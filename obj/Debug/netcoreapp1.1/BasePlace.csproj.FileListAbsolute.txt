@@ -1,0 +1,11 @@
+c:\users\james tam\source\repos\BasePlace\BasePlace\bin\Debug\netcoreapp1.1\BasePlace.deps.json
+c:\users\james tam\source\repos\BasePlace\BasePlace\bin\Debug\netcoreapp1.1\BasePlace.runtimeconfig.json
+c:\users\james tam\source\repos\BasePlace\BasePlace\bin\Debug\netcoreapp1.1\BasePlace.runtimeconfig.dev.json
+c:\users\james tam\source\repos\BasePlace\BasePlace\bin\Debug\netcoreapp1.1\BasePlace.dll
+c:\users\james tam\source\repos\BasePlace\BasePlace\bin\Debug\netcoreapp1.1\BasePlace.pdb
+c:\users\james tam\source\repos\BasePlace\BasePlace\obj\Debug\netcoreapp1.1\BasePlace.csprojResolveAssemblyReference.cache
+c:\users\james tam\source\repos\BasePlace\BasePlace\obj\Debug\netcoreapp1.1\BasePlace.csproj.CoreCompileInputs.cache
+c:\users\james tam\source\repos\BasePlace\BasePlace\obj\Debug\netcoreapp1.1\BasePlace.AssemblyInfoInputs.cache
+c:\users\james tam\source\repos\BasePlace\BasePlace\obj\Debug\netcoreapp1.1\BasePlace.AssemblyInfo.cs
+c:\users\james tam\source\repos\BasePlace\BasePlace\obj\Debug\netcoreapp1.1\BasePlace.dll
+c:\users\james tam\source\repos\BasePlace\BasePlace\obj\Debug\netcoreapp1.1\BasePlace.pdb
